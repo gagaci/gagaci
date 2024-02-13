@@ -1,6 +1,5 @@
 - 👋 Hi, I’m khabibulloh you can call me khabib
 - 👀 I’m interested in java, sping boot, sql, algoritms
-- 🌱 I’m currently learning technologies which releted to spring boot
 - 💞️ I’m looking to collaborate on site projects
 - 📫 How to reach me: my email -> bayramovxabibulloh@gmail.com
 - 😄 Pronouns: he/him
