@@ -1,4 +1,4 @@
-# <samp>Bayramov Khabib</samp><img src="https://github.com/gagaci/asset/blob/main/mario_hello_big.gif" width="30px" height="30px">
+# <samp>khabib</samp><img src="https://github.com/gagaci/asset/blob/main/mario_hello_big.gif" width="30px" height="30px">
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white&color=071A2C&link=https://www.youtube.com/channel/UCzZnnB25KHmMC4n2kKpL6qw)](https://www.youtube.com/channel/UCzZnnB25KHmMC4n2kKpL6qw)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/bayramov.xv)](https://www.instagram.com/bayramov.xv)
