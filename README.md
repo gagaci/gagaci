@@ -6,9 +6,9 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/gagaci/asset/blob/main/earth.gif" width="22px" height="22px">
 
-<samp>I'm Bayramov Khabibulloh from Uzbekistan Tashkent , currently I'm a __Student at Webster University__ , passionate about solving problems with technology and creating different solutions.
+<samp>I'm Bayramov Khabibulloh from Uzbekistan Tashkent. I'm currently a __student at Webster University in Tshkent__ , passionate about solving problems with technology and creating different solutions.
 
 - 💻&nbsp;<samp>I love improving myself everyday.</samp>
 - 🏡&nbsp;<samp>I love being with my family and friends, they are everything to me.</samp>
 - ✈️&nbsp;<samp>I love to travel and get to know new places and cultures.</samp>
-- 🥋&nbsp;<samp>I am really into sport. My favotire one is judo.</samp>
+- 🥋&nbsp;<samp>I am really into sports. My favotire one is judo.</samp>
