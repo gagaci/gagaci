@@ -10,4 +10,3 @@
 
 - 💻&nbsp;<samp>I love improving myself everyday.</samp>
 - ✈️&nbsp;<samp>I love to travel and get to know new places and cultures.</samp>
-- 🥋&nbsp;<samp>I am really into sports. My favotire one is judo.</samp>
