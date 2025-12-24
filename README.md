@@ -7,6 +7,3 @@
 ## <samp>Hello World!</samp> <img src="https://github.com/gagaci/asset/blob/main/earth.gif" width="22px" height="22px">
 
 <samp>I'm Bayramov Khabibulloh from Uzbekistan Tashkent. I'm currently a __student at Webster University in Tshkent__ , passionate about solving problems with technology and creating different solutions.
-
-- 💻&nbsp;<samp>I love improving myself everyday.</samp>
-- ✈️&nbsp;<samp>I love to travel and get to know new places and cultures.</samp>
